@@ -1,0 +1,1507 @@
+[
+    {
+        "country": "法国",
+        "confirmedCount": 37130412,
+        "currentConfirmedCount": 36604649,
+        "curedCount": 368023,
+        "deadCount": 157740
+    },
+    {
+        "country": "德国",
+        "confirmedCount": 36033394,
+        "currentConfirmedCount": 31549406,
+        "curedCount": 4328400,
+        "deadCount": 155588
+    },
+    {
+        "country": "韩国",
+        "confirmedCount": 26145764,
+        "currentConfirmedCount": 25779599,
+        "curedCount": 336548,
+        "deadCount": 29617
+    },
+    {
+        "country": "日本",
+        "confirmedCount": 23055475,
+        "currentConfirmedCount": 21295397,
+        "curedCount": 1712555,
+        "deadCount": 47523
+    },
+    {
+        "country": "意大利",
+        "confirmedCount": 23823192,
+        "currentConfirmedCount": 17328763,
+        "curedCount": 6314444,
+        "deadCount": 179985
+    },
+    {
+        "country": "英国",
+        "confirmedCount": 23954196,
+        "currentConfirmedCount": 17252447,
+        "curedCount": 6491069,
+        "deadCount": 210680
+    },
+    {
+        "country": "西班牙",
+        "confirmedCount": 13543816,
+        "currentConfirmedCount": 13278018,
+        "curedCount": 150376,
+        "deadCount": 115422
+    },
+    {
+        "country": "土耳其",
+        "confirmedCount": 16919638,
+        "currentConfirmedCount": 11046824,
+        "curedCount": 5771611,
+        "deadCount": 101203
+    },
+    {
+        "country": "荷兰",
+        "confirmedCount": 8539315,
+        "currentConfirmedCount": 8504469,
+        "curedCount": 11886,
+        "deadCount": 22960
+    },
+    {
+        "country": "中国",
+        "confirmedCount": 8731124,
+        "currentConfirmedCount": 8338570,
+        "curedCount": 363304,
+        "deadCount": 29250
+    },
+    {
+        "country": "奥地利",
+        "confirmedCount": 5484553,
+        "currentConfirmedCount": 4873937,
+        "curedCount": 589534,
+        "deadCount": 21082
+    },
+    {
+        "country": "希腊",
+        "confirmedCount": 5250288,
+        "currentConfirmedCount": 4852485,
+        "curedCount": 363915,
+        "deadCount": 33888
+    },
+    {
+        "country": "比利时",
+        "confirmedCount": 4622723,
+        "currentConfirmedCount": 4570508,
+        "curedCount": 19239,
+        "deadCount": 32976
+    },
+    {
+        "country": "瑞士",
+        "confirmedCount": 4276848,
+        "currentConfirmedCount": 3945151,
+        "curedCount": 317600,
+        "deadCount": 14097
+    },
+    {
+        "country": "伊朗",
+        "confirmedCount": 7558812,
+        "currentConfirmedCount": 3420992,
+        "curedCount": 3993211,
+        "deadCount": 144609
+    },
+    {
+        "country": "智利",
+        "confirmedCount": 4826234,
+        "currentConfirmedCount": 3014447,
+        "curedCount": 1749834,
+        "deadCount": 61953
+    },
+    {
+        "country": "丹麦",
+        "confirmedCount": 3341697,
+        "currentConfirmedCount": 2814766,
+        "curedCount": 519497,
+        "deadCount": 7434
+    },
+    {
+        "country": "巴西",
+        "confirmedCount": 34908198,
+        "currentConfirmedCount": 2804605,
+        "curedCount": 31414937,
+        "deadCount": 688656
+    },
+    {
+        "country": "瑞典",
+        "confirmedCount": 2618688,
+        "currentConfirmedCount": 2592860,
+        "curedCount": 4971,
+        "deadCount": 20857
+    },
+    {
+        "country": "塞尔维亚",
+        "confirmedCount": 2684490,
+        "currentConfirmedCount": 2556698,
+        "curedCount": 107287,
+        "deadCount": 20505
+    },
+    {
+        "country": "斯洛伐克",
+        "confirmedCount": 2646511,
+        "currentConfirmedCount": 2370548,
+        "curedCount": 255300,
+        "deadCount": 20663
+    },
+    {
+        "country": "乌克兰",
+        "confirmedCount": 5618015,
+        "currentConfirmedCount": 2016587,
+        "curedCount": 3483354,
+        "deadCount": 118074
+    },
+    {
+        "country": "伊拉克",
+        "confirmedCount": 2461857,
+        "currentConfirmedCount": 1881506,
+        "curedCount": 554990,
+        "deadCount": 25361
+    },
+    {
+        "country": "爱尔兰",
+        "confirmedCount": 1673665,
+        "currentConfirmedCount": 1640177,
+        "curedCount": 25422,
+        "deadCount": 8066
+    },
+    {
+        "country": "印度",
+        "confirmedCount": 44665643,
+        "currentConfirmedCount": 1530234,
+        "curedCount": 42604881,
+        "deadCount": 530528
+    },
+    {
+        "country": "美国",
+        "confirmedCount": 99895236,
+        "currentConfirmedCount": 1368064,
+        "curedCount": 97427047,
+        "deadCount": 1100125
+    },
+    {
+        "country": "哈萨克斯坦",
+        "confirmedCount": 1485340,
+        "currentConfirmedCount": 1344940,
+        "curedCount": 121347,
+        "deadCount": 19053
+    },
+    {
+        "country": "罗马尼亚",
+        "confirmedCount": 3291348,
+        "currentConfirmedCount": 1324595,
+        "curedCount": 1899522,
+        "deadCount": 67231
+    },
+    {
+        "country": "斯洛文尼亚",
+        "confirmedCount": 1241455,
+        "currentConfirmedCount": 1230939,
+        "curedCount": 2027,
+        "deadCount": 8489
+    },
+    {
+        "country": "格鲁吉亚",
+        "confirmedCount": 1785138,
+        "currentConfirmedCount": 1173557,
+        "curedCount": 594669,
+        "deadCount": 16912
+    },
+    {
+        "country": "危地马拉",
+        "confirmedCount": 1144771,
+        "currentConfirmedCount": 994865,
+        "curedCount": 129990,
+        "deadCount": 19916
+    },
+    {
+        "country": "波多黎各",
+        "confirmedCount": 991468,
+        "currentConfirmedCount": 986177,
+        "curedCount": 0,
+        "deadCount": 5291
+    },
+    {
+        "country": "约旦",
+        "confirmedCount": 1746997,
+        "currentConfirmedCount": 928091,
+        "curedCount": 804784,
+        "deadCount": 14122
+    },
+    {
+        "country": "俄罗斯",
+        "confirmedCount": 21477926,
+        "currentConfirmedCount": 779583,
+        "curedCount": 20307569,
+        "deadCount": 390774
+    },
+    {
+        "country": "立陶宛",
+        "confirmedCount": 1271238,
+        "currentConfirmedCount": 723251,
+        "curedCount": 538580,
+        "deadCount": 9407
+    },
+    {
+        "country": "加拿大",
+        "confirmedCount": 4402177,
+        "currentConfirmedCount": 659055,
+        "curedCount": 3695850,
+        "deadCount": 47272
+    },
+    {
+        "country": "捷克",
+        "confirmedCount": 4164606,
+        "currentConfirmedCount": 653956,
+        "curedCount": 3468947,
+        "deadCount": 41703
+    },
+    {
+        "country": "克罗地亚",
+        "confirmedCount": 1249699,
+        "currentConfirmedCount": 637555,
+        "curedCount": 594929,
+        "deadCount": 17215
+    },
+    {
+        "country": "玻利维亚",
+        "confirmedCount": 1109763,
+        "currentConfirmedCount": 627516,
+        "curedCount": 460004,
+        "deadCount": 22243
+    },
+    {
+        "country": "阿塞拜疆",
+        "confirmedCount": 823636,
+        "currentConfirmedCount": 604996,
+        "curedCount": 208681,
+        "deadCount": 9959
+    },
+    {
+        "country": "以色列",
+        "confirmedCount": 4694836,
+        "currentConfirmedCount": 547353,
+        "curedCount": 4135695,
+        "deadCount": 11788
+    },
+    {
+        "country": "葡萄牙",
+        "confirmedCount": 5528365,
+        "currentConfirmedCount": 543854,
+        "curedCount": 4959192,
+        "deadCount": 25319
+    },
+    {
+        "country": "秘鲁",
+        "confirmedCount": 4167290,
+        "currentConfirmedCount": 523852,
+        "curedCount": 3426292,
+        "deadCount": 217146
+    },
+    {
+        "country": "马来西亚",
+        "confirmedCount": 4943701,
+        "currentConfirmedCount": 522780,
+        "curedCount": 4384384,
+        "deadCount": 36537
+    },
+    {
+        "country": "巴拿马",
+        "confirmedCount": 991251,
+        "currentConfirmedCount": 513904,
+        "curedCount": 468838,
+        "deadCount": 8509
+    },
+    {
+        "country": "多米尼加",
+        "confirmedCount": 647717,
+        "currentConfirmedCount": 506235,
+        "curedCount": 137098,
+        "deadCount": 4384
+    },
+    {
+        "country": "孟加拉国",
+        "confirmedCount": 2036109,
+        "currentConfirmedCount": 501974,
+        "curedCount": 1504709,
+        "deadCount": 29426
+    },
+    {
+        "country": "留尼旺",
+        "confirmedCount": 478346,
+        "currentConfirmedCount": 477447,
+        "curedCount": 0,
+        "deadCount": 899
+    },
+    {
+        "country": "澳大利亚",
+        "confirmedCount": 10472100,
+        "currentConfirmedCount": 438851,
+        "curedCount": 10017376,
+        "deadCount": 15873
+    },
+    {
+        "country": "拉脱维亚",
+        "confirmedCount": 956780,
+        "currentConfirmedCount": 398886,
+        "curedCount": 551818,
+        "deadCount": 6076
+    },
+    {
+        "country": "阿根廷",
+        "confirmedCount": 9720232,
+        "currentConfirmedCount": 393867,
+        "curedCount": 9196362,
+        "deadCount": 130003
+    },
+    {
+        "country": "保加利亚",
+        "confirmedCount": 1283364,
+        "currentConfirmedCount": 391164,
+        "curedCount": 854248,
+        "deadCount": 37952
+    },
+    {
+        "country": "墨西哥",
+        "confirmedCount": 7116424,
+        "currentConfirmedCount": 326849,
+        "curedCount": 6459145,
+        "deadCount": 330430
+    },
+    {
+        "country": "摩洛哥",
+        "confirmedCount": 1266458,
+        "currentConfirmedCount": 319939,
+        "curedCount": 930236,
+        "deadCount": 16283
+    },
+    {
+        "country": "巴勒斯坦",
+        "confirmedCount": 703036,
+        "currentConfirmedCount": 319535,
+        "curedCount": 377793,
+        "deadCount": 5708
+    },
+    {
+        "country": "乌拉圭",
+        "confirmedCount": 991219,
+        "currentConfirmedCount": 300174,
+        "curedCount": 683519,
+        "deadCount": 7526
+    },
+    {
+        "country": "巴基斯坦",
+        "confirmedCount": 1574549,
+        "currentConfirmedCount": 298765,
+        "curedCount": 1245155,
+        "deadCount": 30629
+    },
+    {
+        "country": "阿联酋",
+        "confirmedCount": 1040604,
+        "currentConfirmedCount": 289002,
+        "curedCount": 749254,
+        "deadCount": 2348
+    },
+    {
+        "country": "菲律宾",
+        "confirmedCount": 4015266,
+        "currentConfirmedCount": 282201,
+        "curedCount": 3668710,
+        "deadCount": 64355
+    },
+    {
+        "country": "沙特阿拉伯",
+        "confirmedCount": 824377,
+        "currentConfirmedCount": 278501,
+        "curedCount": 536447,
+        "deadCount": 9429
+    },
+    {
+        "country": "毛里求斯",
+        "confirmedCount": 268397,
+        "currentConfirmedCount": 265510,
+        "curedCount": 1854,
+        "deadCount": 1033
+    },
+    {
+        "country": "巴拉圭",
+        "confirmedCount": 718049,
+        "currentConfirmedCount": 250054,
+        "curedCount": 448387,
+        "deadCount": 19608
+    },
+    {
+        "country": "利比亚",
+        "confirmedCount": 507060,
+        "currentConfirmedCount": 239738,
+        "curedCount": 260885,
+        "deadCount": 6437
+    },
+    {
+        "country": "亚美尼亚",
+        "confirmedCount": 445397,
+        "currentConfirmedCount": 225054,
+        "curedCount": 211634,
+        "deadCount": 8709
+    },
+    {
+        "country": "马提尼克",
+        "confirmedCount": 223728,
+        "currentConfirmedCount": 222681,
+        "curedCount": 0,
+        "deadCount": 1047
+    },
+    {
+        "country": "巴林",
+        "confirmedCount": 693082,
+        "currentConfirmedCount": 197132,
+        "curedCount": 494419,
+        "deadCount": 1531
+    },
+    {
+        "country": "瓜德罗普岛",
+        "confirmedCount": 196270,
+        "currentConfirmedCount": 195277,
+        "curedCount": 0,
+        "deadCount": 993
+    },
+    {
+        "country": "芬兰",
+        "confirmedCount": 1372651,
+        "currentConfirmedCount": 187778,
+        "curedCount": 1177960,
+        "deadCount": 6913
+    },
+    {
+        "country": "文莱",
+        "confirmedCount": 244599,
+        "currentConfirmedCount": 187732,
+        "curedCount": 56642,
+        "deadCount": 225
+    },
+    {
+        "country": "委内瑞拉",
+        "confirmedCount": 546262,
+        "currentConfirmedCount": 183099,
+        "curedCount": 357339,
+        "deadCount": 5824
+    },
+    {
+        "country": "博茨瓦纳",
+        "confirmedCount": 326344,
+        "currentConfirmedCount": 152120,
+        "curedCount": 171434,
+        "deadCount": 2790
+    },
+    {
+        "country": "埃塞俄比亚",
+        "confirmedCount": 494166,
+        "currentConfirmedCount": 129597,
+        "curedCount": 356997,
+        "deadCount": 7572
+    },
+    {
+        "country": "阿尔巴尼亚",
+        "confirmedCount": 333125,
+        "currentConfirmedCount": 128250,
+        "curedCount": 201282,
+        "deadCount": 3593
+    },
+    {
+        "country": "特立尼达和多巴哥",
+        "confirmedCount": 184949,
+        "currentConfirmedCount": 126407,
+        "curedCount": 54285,
+        "deadCount": 4257
+    },
+    {
+        "country": "黑山",
+        "confirmedCount": 283268,
+        "currentConfirmedCount": 125199,
+        "curedCount": 155281,
+        "deadCount": 2788
+    },
+    {
+        "country": "阿曼",
+        "confirmedCount": 398775,
+        "currentConfirmedCount": 104697,
+        "curedCount": 289450,
+        "deadCount": 4628
+    },
+    {
+        "country": "巴巴多斯",
+        "confirmedCount": 103424,
+        "currentConfirmedCount": 96045,
+        "curedCount": 6819,
+        "deadCount": 560
+    },
+    {
+        "country": "法属圭亚那",
+        "confirmedCount": 94259,
+        "currentConfirmedCount": 93848,
+        "curedCount": 0,
+        "deadCount": 411
+    },
+    {
+        "country": "古巴",
+        "confirmedCount": 1111311,
+        "currentConfirmedCount": 85810,
+        "curedCount": 1016971,
+        "deadCount": 8530
+    },
+    {
+        "country": "莫桑比克",
+        "confirmedCount": 230475,
+        "currentConfirmedCount": 80970,
+        "curedCount": 147281,
+        "deadCount": 2224
+    },
+    {
+        "country": "白俄罗斯",
+        "confirmedCount": 994037,
+        "currentConfirmedCount": 78787,
+        "curedCount": 908132,
+        "deadCount": 7118
+    },
+    {
+        "country": "阿富汗",
+        "confirmedCount": 204392,
+        "currentConfirmedCount": 78383,
+        "curedCount": 118180,
+        "deadCount": 7829
+    },
+    {
+        "country": "肯尼亚",
+        "confirmedCount": 340209,
+        "currentConfirmedCount": 77980,
+        "curedCount": 256551,
+        "deadCount": 5678
+    },
+    {
+        "country": "斯威士兰",
+        "confirmedCount": 73618,
+        "currentConfirmedCount": 69260,
+        "curedCount": 2936,
+        "deadCount": 1422
+    },
+    {
+        "country": "贝宁",
+        "confirmedCount": 86394,
+        "currentConfirmedCount": 65301,
+        "curedCount": 20930,
+        "deadCount": 163
+    },
+    {
+        "country": "萨尔瓦多",
+        "confirmedCount": 201785,
+        "currentConfirmedCount": 65145,
+        "curedCount": 132410,
+        "deadCount": 4230
+    },
+    {
+        "country": "塞浦路斯",
+        "confirmedCount": 602662,
+        "currentConfirmedCount": 62173,
+        "curedCount": 539289,
+        "deadCount": 1200
+    },
+    {
+        "country": "刚果（金）",
+        "confirmedCount": 93466,
+        "currentConfirmedCount": 61161,
+        "curedCount": 30858,
+        "deadCount": 1447
+    },
+    {
+        "country": "新喀里多尼亚",
+        "confirmedCount": 74577,
+        "currentConfirmedCount": 60837,
+        "curedCount": 13426,
+        "deadCount": 314
+    },
+    {
+        "country": "不丹",
+        "confirmedCount": 62430,
+        "currentConfirmedCount": 59816,
+        "curedCount": 2593,
+        "deadCount": 21
+    },
+    {
+        "country": "尼日利亚",
+        "confirmedCount": 266192,
+        "currentConfirmedCount": 55783,
+        "curedCount": 207254,
+        "deadCount": 3155
+    },
+    {
+        "country": "伯利兹",
+        "confirmedCount": 68972,
+        "currentConfirmedCount": 54023,
+        "curedCount": 14262,
+        "deadCount": 687
+    },
+    {
+        "country": "泽西岛",
+        "confirmedCount": 62014,
+        "currentConfirmedCount": 52197,
+        "curedCount": 9676,
+        "deadCount": 141
+    },
+    {
+        "country": "布隆迪共和国",
+        "confirmedCount": 50574,
+        "currentConfirmedCount": 50532,
+        "curedCount": 4,
+        "deadCount": 38
+    },
+    {
+        "country": "圭亚那",
+        "confirmedCount": 71461,
+        "currentConfirmedCount": 48130,
+        "curedCount": 22050,
+        "deadCount": 1281
+    },
+    {
+        "country": "乌兹别克斯坦",
+        "confirmedCount": 244878,
+        "currentConfirmedCount": 47401,
+        "curedCount": 195840,
+        "deadCount": 1637
+    },
+    {
+        "country": "哥伦比亚",
+        "confirmedCount": 6311359,
+        "currentConfirmedCount": 47040,
+        "curedCount": 6122457,
+        "deadCount": 141862
+    },
+    {
+        "country": "印度尼西亚",
+        "confirmedCount": 6550448,
+        "currentConfirmedCount": 43154,
+        "curedCount": 6348259,
+        "deadCount": 159035
+    },
+    {
+        "country": "纳米比亚",
+        "confirmedCount": 169946,
+        "currentConfirmedCount": 43078,
+        "curedCount": 122788,
+        "deadCount": 4080
+    },
+    {
+        "country": "卢森堡",
+        "confirmedCount": 303571,
+        "currentConfirmedCount": 41769,
+        "curedCount": 260651,
+        "deadCount": 1151
+    },
+    {
+        "country": "喀麦隆",
+        "confirmedCount": 123993,
+        "currentConfirmedCount": 41595,
+        "curedCount": 80433,
+        "deadCount": 1965
+    },
+    {
+        "country": "卡塔尔",
+        "confirmedCount": 473234,
+        "currentConfirmedCount": 41459,
+        "curedCount": 431091,
+        "deadCount": 684
+    },
+    {
+        "country": "库拉索岛",
+        "confirmedCount": 45507,
+        "currentConfirmedCount": 40776,
+        "curedCount": 4438,
+        "deadCount": 293
+    },
+    {
+        "country": "马约特",
+        "confirmedCount": 40339,
+        "currentConfirmedCount": 40152,
+        "curedCount": 0,
+        "deadCount": 187
+    },
+    {
+        "country": "坦桑尼亚",
+        "confirmedCount": 40152,
+        "currentConfirmedCount": 39140,
+        "curedCount": 167,
+        "deadCount": 845
+    },
+    {
+        "country": "安哥拉",
+        "confirmedCount": 103131,
+        "currentConfirmedCount": 37919,
+        "curedCount": 63295,
+        "deadCount": 1917
+    },
+    {
+        "country": "关岛",
+        "confirmedCount": 49174,
+        "currentConfirmedCount": 37599,
+        "curedCount": 11171,
+        "deadCount": 404
+    },
+    {
+        "country": "泰国",
+        "confirmedCount": 4713909,
+        "currentConfirmedCount": 37193,
+        "curedCount": 4643721,
+        "deadCount": 32995
+    },
+    {
+        "country": "厄瓜多尔",
+        "confirmedCount": 1009388,
+        "currentConfirmedCount": 35394,
+        "curedCount": 938059,
+        "deadCount": 35935
+    },
+    {
+        "country": "挪威",
+        "confirmedCount": 1466466,
+        "currentConfirmedCount": 35259,
+        "curedCount": 1426921,
+        "deadCount": 4286
+    },
+    {
+        "country": "阿鲁巴",
+        "confirmedCount": 44145,
+        "currentConfirmedCount": 32615,
+        "curedCount": 11259,
+        "deadCount": 271
+    },
+    {
+        "country": "根西岛",
+        "confirmedCount": 32562,
+        "currentConfirmedCount": 30992,
+        "curedCount": 1505,
+        "deadCount": 65
+    },
+    {
+        "country": "叙利亚",
+        "confirmedCount": 57378,
+        "currentConfirmedCount": 30832,
+        "curedCount": 23383,
+        "deadCount": 3163
+    },
+    {
+        "country": "吉尔吉斯斯坦",
+        "confirmedCount": 206464,
+        "currentConfirmedCount": 29677,
+        "curedCount": 173796,
+        "deadCount": 2991
+    },
+    {
+        "country": "科特迪瓦",
+        "confirmedCount": 87851,
+        "currentConfirmedCount": 28548,
+        "curedCount": 58474,
+        "deadCount": 829
+    },
+    {
+        "country": "塞舌尔",
+        "confirmedCount": 49380,
+        "currentConfirmedCount": 28306,
+        "curedCount": 20903,
+        "deadCount": 171
+    },
+    {
+        "country": "毛里塔尼亚",
+        "confirmedCount": 63410,
+        "currentConfirmedCount": 27826,
+        "curedCount": 34587,
+        "deadCount": 997
+    },
+    {
+        "country": "巴哈马",
+        "confirmedCount": 37433,
+        "currentConfirmedCount": 27763,
+        "curedCount": 8837,
+        "deadCount": 833
+    },
+    {
+        "country": "马拉维",
+        "confirmedCount": 88099,
+        "currentConfirmedCount": 26600,
+        "curedCount": 58814,
+        "deadCount": 2685
+    },
+    {
+        "country": "佛得角",
+        "confirmedCount": 62589,
+        "currentConfirmedCount": 25564,
+        "curedCount": 36615,
+        "deadCount": 410
+    },
+    {
+        "country": "海地",
+        "confirmedCount": 33828,
+        "currentConfirmedCount": 24311,
+        "curedCount": 8657,
+        "deadCount": 860
+    },
+    {
+        "country": "马达加斯加",
+        "confirmedCount": 66788,
+        "currentConfirmedCount": 24055,
+        "curedCount": 41322,
+        "deadCount": 1411
+    },
+    {
+        "country": "匈牙利",
+        "confirmedCount": 2153564,
+        "currentConfirmedCount": 22928,
+        "curedCount": 2082525,
+        "deadCount": 48111
+    },
+    {
+        "country": "赞比亚共和国",
+        "confirmedCount": 333685,
+        "currentConfirmedCount": 22001,
+        "curedCount": 307667,
+        "deadCount": 4017
+    },
+    {
+        "country": "加蓬",
+        "confirmedCount": 48945,
+        "currentConfirmedCount": 21591,
+        "curedCount": 27048,
+        "deadCount": 306
+    },
+    {
+        "country": "尼泊尔",
+        "confirmedCount": 1000784,
+        "currentConfirmedCount": 19963,
+        "curedCount": 968802,
+        "deadCount": 12019
+    },
+    {
+        "country": "新西兰",
+        "confirmedCount": 1872544,
+        "currentConfirmedCount": 19802,
+        "curedCount": 1849572,
+        "deadCount": 3170
+    },
+    {
+        "country": "马里",
+        "confirmedCount": 32745,
+        "currentConfirmedCount": 17718,
+        "curedCount": 14285,
+        "deadCount": 742
+    },
+    {
+        "country": "美属维尔京群岛",
+        "confirmedCount": 23435,
+        "currentConfirmedCount": 16839,
+        "curedCount": 6472,
+        "deadCount": 124
+    },
+    {
+        "country": "百慕大",
+        "confirmedCount": 18428,
+        "currentConfirmedCount": 16643,
+        "curedCount": 1636,
+        "deadCount": 149
+    },
+    {
+        "country": "刚果（布）",
+        "confirmedCount": 24775,
+        "currentConfirmedCount": 16181,
+        "curedCount": 8208,
+        "deadCount": 386
+    },
+    {
+        "country": "斐济",
+        "confirmedCount": 68287,
+        "currentConfirmedCount": 16142,
+        "curedCount": 51267,
+        "deadCount": 878
+    },
+    {
+        "country": "多哥",
+        "confirmedCount": 39317,
+        "currentConfirmedCount": 16119,
+        "curedCount": 22908,
+        "deadCount": 290
+    },
+    {
+        "country": "多米尼克",
+        "confirmedCount": 15760,
+        "currentConfirmedCount": 15494,
+        "curedCount": 192,
+        "deadCount": 74
+    },
+    {
+        "country": "塞内加尔",
+        "confirmedCount": 88832,
+        "currentConfirmedCount": 15092,
+        "curedCount": 71752,
+        "deadCount": 1988
+    },
+    {
+        "country": "格林那达",
+        "confirmedCount": 19613,
+        "currentConfirmedCount": 13754,
+        "curedCount": 5622,
+        "deadCount": 237
+    },
+    {
+        "country": "波兰",
+        "confirmedCount": 6346155,
+        "currentConfirmedCount": 13233,
+        "curedCount": 6214712,
+        "deadCount": 118210
+    },
+    {
+        "country": "北马里亚纳群岛联邦",
+        "confirmedCount": 13171,
+        "currentConfirmedCount": 13099,
+        "curedCount": 32,
+        "deadCount": 40
+    },
+    {
+        "country": "摩纳哥",
+        "confirmedCount": 15071,
+        "currentConfirmedCount": 12546,
+        "curedCount": 2460,
+        "deadCount": 65
+    },
+    {
+        "country": "越南",
+        "confirmedCount": 11508170,
+        "currentConfirmedCount": 11791,
+        "curedCount": 11453213,
+        "deadCount": 43166
+    },
+    {
+        "country": "圣马丁岛",
+        "confirmedCount": 12026,
+        "currentConfirmedCount": 10382,
+        "curedCount": 1598,
+        "deadCount": 46
+    },
+    {
+        "country": "哥斯达黎加",
+        "confirmedCount": 1140864,
+        "currentConfirmedCount": 10269,
+        "curedCount": 1121576,
+        "deadCount": 9019
+    },
+    {
+        "country": "也门共和国",
+        "confirmedCount": 11945,
+        "currentConfirmedCount": 9436,
+        "curedCount": 350,
+        "deadCount": 2159
+    },
+    {
+        "country": "圣文森特和格林纳丁斯",
+        "confirmedCount": 9459,
+        "currentConfirmedCount": 9196,
+        "curedCount": 147,
+        "deadCount": 116
+    },
+    {
+        "country": "新加坡",
+        "confirmedCount": 2136658,
+        "currentConfirmedCount": 9132,
+        "curedCount": 2125833,
+        "deadCount": 1693
+    },
+    {
+        "country": "列支敦士登",
+        "confirmedCount": 20750,
+        "currentConfirmedCount": 8800,
+        "curedCount": 11863,
+        "deadCount": 87
+    },
+    {
+        "country": "几内亚",
+        "confirmedCount": 38122,
+        "currentConfirmedCount": 8674,
+        "curedCount": 28990,
+        "deadCount": 458
+    },
+    {
+        "country": "安道尔",
+        "confirmedCount": 46664,
+        "currentConfirmedCount": 8510,
+        "curedCount": 37999,
+        "deadCount": 155
+    },
+    {
+        "country": "中非共和国",
+        "confirmedCount": 15289,
+        "currentConfirmedCount": 8317,
+        "curedCount": 6859,
+        "deadCount": 113
+    },
+    {
+        "country": "安提瓜和巴布达",
+        "confirmedCount": 9106,
+        "currentConfirmedCount": 7738,
+        "curedCount": 1222,
+        "deadCount": 146
+    },
+    {
+        "country": "布基纳法索",
+        "confirmedCount": 21631,
+        "currentConfirmedCount": 7352,
+        "curedCount": 13892,
+        "deadCount": 387
+    },
+    {
+        "country": "波黑",
+        "confirmedCount": 400185,
+        "currentConfirmedCount": 7347,
+        "curedCount": 376654,
+        "deadCount": 16184
+    },
+    {
+        "country": "南苏丹",
+        "confirmedCount": 18325,
+        "currentConfirmedCount": 6992,
+        "curedCount": 11195,
+        "deadCount": 138
+    },
+    {
+        "country": "荷属圣马丁",
+        "confirmedCount": 10931,
+        "currentConfirmedCount": 6805,
+        "curedCount": 4037,
+        "deadCount": 89
+    },
+    {
+        "country": "科威特",
+        "confirmedCount": 662359,
+        "currentConfirmedCount": 6744,
+        "curedCount": 653046,
+        "deadCount": 2569
+    },
+    {
+        "country": "圣其茨和尼维斯",
+        "confirmedCount": 6552,
+        "currentConfirmedCount": 6436,
+        "curedCount": 70,
+        "deadCount": 46
+    },
+    {
+        "country": "赤道几内亚",
+        "confirmedCount": 17182,
+        "currentConfirmedCount": 5703,
+        "curedCount": 11296,
+        "deadCount": 183
+    },
+    {
+        "country": "科摩罗",
+        "confirmedCount": 8879,
+        "currentConfirmedCount": 5659,
+        "curedCount": 3059,
+        "deadCount": 161
+    },
+    {
+        "country": "圣巴泰勒米岛",
+        "confirmedCount": 5323,
+        "currentConfirmedCount": 5318,
+        "curedCount": 0,
+        "deadCount": 5
+    },
+    {
+        "country": "巴布亚新几内亚",
+        "confirmedCount": 45721,
+        "currentConfirmedCount": 5148,
+        "curedCount": 39905,
+        "deadCount": 668
+    },
+    {
+        "country": "津巴布韦",
+        "confirmedCount": 257893,
+        "currentConfirmedCount": 4908,
+        "curedCount": 247379,
+        "deadCount": 5606
+    },
+    {
+        "country": "东帝汶",
+        "confirmedCount": 23312,
+        "currentConfirmedCount": 4899,
+        "curedCount": 18275,
+        "deadCount": 138
+    },
+    {
+        "country": "缅甸",
+        "confirmedCount": 632587,
+        "currentConfirmedCount": 4392,
+        "curedCount": 608709,
+        "deadCount": 19486
+    },
+    {
+        "country": "加纳",
+        "confirmedCount": 170894,
+        "currentConfirmedCount": 4281,
+        "curedCount": 165153,
+        "deadCount": 1460
+    },
+    {
+        "country": "北马其顿",
+        "confirmedCount": 344342,
+        "currentConfirmedCount": 3912,
+        "curedCount": 330866,
+        "deadCount": 9564
+    },
+    {
+        "country": "特克斯和凯科斯群岛",
+        "confirmedCount": 6431,
+        "currentConfirmedCount": 3900,
+        "curedCount": 2495,
+        "deadCount": 36
+    },
+    {
+        "country": "尼日尔",
+        "confirmedCount": 9931,
+        "currentConfirmedCount": 3848,
+        "curedCount": 5769,
+        "deadCount": 314
+    },
+    {
+        "country": "安圭拉",
+        "confirmedCount": 3904,
+        "currentConfirmedCount": 3781,
+        "curedCount": 111,
+        "deadCount": 12
+    },
+    {
+        "country": "圣多美和普林西比",
+        "confirmedCount": 6275,
+        "currentConfirmedCount": 3453,
+        "curedCount": 2745,
+        "deadCount": 77
+    },
+    {
+        "country": "几内亚比绍",
+        "confirmedCount": 8848,
+        "currentConfirmedCount": 3435,
+        "curedCount": 5237,
+        "deadCount": 176
+    },
+    {
+        "country": "厄立特里亚",
+        "confirmedCount": 10189,
+        "currentConfirmedCount": 3423,
+        "curedCount": 6663,
+        "deadCount": 103
+    },
+    {
+        "country": "吉布提",
+        "confirmedCount": 15690,
+        "currentConfirmedCount": 3339,
+        "curedCount": 12162,
+        "deadCount": 189
+    },
+    {
+        "country": "圣皮埃尔和密克隆群岛",
+        "confirmedCount": 3231,
+        "currentConfirmedCount": 3200,
+        "curedCount": 30,
+        "deadCount": 1
+    },
+    {
+        "country": "冈比亚",
+        "confirmedCount": 12580,
+        "currentConfirmedCount": 2620,
+        "curedCount": 9588,
+        "deadCount": 372
+    },
+    {
+        "country": "蒙古",
+        "confirmedCount": 986599,
+        "currentConfirmedCount": 2611,
+        "curedCount": 981809,
+        "deadCount": 2179
+    },
+    {
+        "country": "利比里亚",
+        "confirmedCount": 7998,
+        "currentConfirmedCount": 2216,
+        "curedCount": 5488,
+        "deadCount": 294
+    },
+    {
+        "country": "爱沙尼亚",
+        "confirmedCount": 607844,
+        "currentConfirmedCount": 2178,
+        "curedCount": 602909,
+        "deadCount": 2757
+    },
+    {
+        "country": "柬埔寨",
+        "confirmedCount": 137996,
+        "currentConfirmedCount": 1734,
+        "curedCount": 133206,
+        "deadCount": 3056
+    },
+    {
+        "country": "黎巴嫩",
+        "confirmedCount": 1219465,
+        "currentConfirmedCount": 1585,
+        "curedCount": 1207162,
+        "deadCount": 10718
+    },
+    {
+        "country": "摩尔多瓦",
+        "confirmedCount": 594163,
+        "currentConfirmedCount": 1568,
+        "curedCount": 580695,
+        "deadCount": 11900
+    },
+    {
+        "country": "圣马力诺",
+        "confirmedCount": 21739,
+        "currentConfirmedCount": 1269,
+        "curedCount": 20351,
+        "deadCount": 119
+    },
+    {
+        "country": "蒙特塞拉特",
+        "confirmedCount": 1403,
+        "currentConfirmedCount": 1150,
+        "curedCount": 245,
+        "deadCount": 8
+    },
+    {
+        "country": "卢旺达",
+        "confirmedCount": 132611,
+        "currentConfirmedCount": 1057,
+        "curedCount": 130087,
+        "deadCount": 1467
+    },
+    {
+        "country": "苏丹",
+        "confirmedCount": 63561,
+        "currentConfirmedCount": 964,
+        "curedCount": 57617,
+        "deadCount": 4980
+    },
+    {
+        "country": "圣卢西亚",
+        "confirmedCount": 29676,
+        "currentConfirmedCount": 899,
+        "curedCount": 28369,
+        "deadCount": 408
+    },
+    {
+        "country": "斯里兰卡",
+        "confirmedCount": 671384,
+        "currentConfirmedCount": 842,
+        "curedCount": 653758,
+        "deadCount": 16784
+    },
+    {
+        "country": "冰岛",
+        "confirmedCount": 206803,
+        "currentConfirmedCount": 627,
+        "curedCount": 205957,
+        "deadCount": 219
+    },
+    {
+        "country": "突尼斯",
+        "confirmedCount": 1146702,
+        "currentConfirmedCount": 620,
+        "curedCount": 1116819,
+        "deadCount": 29263
+    },
+    {
+        "country": "洪都拉斯",
+        "confirmedCount": 457406,
+        "currentConfirmedCount": 517,
+        "curedCount": 445848,
+        "deadCount": 11041
+    },
+    {
+        "country": "塔吉克斯坦",
+        "confirmedCount": 17786,
+        "currentConfirmedCount": 398,
+        "curedCount": 17263,
+        "deadCount": 125
+    },
+    {
+        "country": "牙买加",
+        "confirmedCount": 152306,
+        "currentConfirmedCount": 351,
+        "curedCount": 148605,
+        "deadCount": 3350
+    },
+    {
+        "country": "开曼群岛",
+        "confirmedCount": 31194,
+        "currentConfirmedCount": 275,
+        "curedCount": 30883,
+        "deadCount": 36
+    },
+    {
+        "country": "马耳他",
+        "confirmedCount": 115563,
+        "currentConfirmedCount": 252,
+        "curedCount": 114503,
+        "deadCount": 808
+    },
+    {
+        "country": "马尔代夫",
+        "confirmedCount": 185454,
+        "currentConfirmedCount": 237,
+        "curedCount": 184908,
+        "deadCount": 309
+    },
+    {
+        "country": "老挝",
+        "confirmedCount": 216355,
+        "currentConfirmedCount": 192,
+        "curedCount": 215405,
+        "deadCount": 758
+    },
+    {
+        "country": "荷兰加勒比地区",
+        "confirmedCount": 177,
+        "currentConfirmedCount": 174,
+        "curedCount": 0,
+        "deadCount": 3
+    },
+    {
+        "country": "钻石公主号邮轮",
+        "confirmedCount": 741,
+        "currentConfirmedCount": 154,
+        "curedCount": 574,
+        "deadCount": 13
+    },
+    {
+        "country": "阿尔及利亚",
+        "confirmedCount": 270924,
+        "currentConfirmedCount": 146,
+        "curedCount": 263897,
+        "deadCount": 6881
+    },
+    {
+        "country": "尼加拉瓜",
+        "confirmedCount": 18491,
+        "currentConfirmedCount": 90,
+        "curedCount": 18156,
+        "deadCount": 245
+    },
+    {
+        "country": "乌干达",
+        "confirmedCount": 169473,
+        "currentConfirmedCount": 71,
+        "curedCount": 165772,
+        "deadCount": 3630
+    },
+    {
+        "country": "苏里南",
+        "confirmedCount": 81228,
+        "currentConfirmedCount": 66,
+        "curedCount": 79770,
+        "deadCount": 1392
+    },
+    {
+        "country": "法属波利尼西亚",
+        "confirmedCount": 76797,
+        "currentConfirmedCount": 66,
+        "curedCount": 76082,
+        "deadCount": 649
+    },
+    {
+        "country": "直布罗陀",
+        "confirmedCount": 20166,
+        "currentConfirmedCount": 47,
+        "curedCount": 20009,
+        "deadCount": 110
+    },
+    {
+        "country": "索马里",
+        "confirmedCount": 27254,
+        "currentConfirmedCount": 26,
+        "curedCount": 25867,
+        "deadCount": 1361
+    },
+    {
+        "country": "乍得",
+        "confirmedCount": 7631,
+        "currentConfirmedCount": 11,
+        "curedCount": 7426,
+        "deadCount": 194
+    },
+    {
+        "country": "塞拉利昂",
+        "confirmedCount": 7758,
+        "currentConfirmedCount": 6,
+        "curedCount": 7626,
+        "deadCount": 126
+    },
+    {
+        "country": "梵蒂冈",
+        "confirmedCount": 29,
+        "currentConfirmedCount": 2,
+        "curedCount": 27,
+        "deadCount": 0
+    },
+    {
+        "country": "马恩岛",
+        "confirmedCount": 38008,
+        "currentConfirmedCount": 0,
+        "curedCount": 37892,
+        "deadCount": 116
+    },
+    {
+        "country": "法罗群岛",
+        "confirmedCount": 34658,
+        "currentConfirmedCount": 0,
+        "curedCount": 34630,
+        "deadCount": 28
+    },
+    {
+        "country": "莱索托",
+        "confirmedCount": 34490,
+        "currentConfirmedCount": 0,
+        "curedCount": 33784,
+        "deadCount": 706
+    },
+    {
+        "country": "格陵兰",
+        "confirmedCount": 11971,
+        "currentConfirmedCount": 0,
+        "curedCount": 11950,
+        "deadCount": 21
+    },
+    {
+        "country": "英属维尔京群岛",
+        "confirmedCount": 7305,
+        "currentConfirmedCount": 0,
+        "curedCount": 7241,
+        "deadCount": 64
+    },
+    {
+        "country": "福克兰群岛",
+        "confirmedCount": 1930,
+        "currentConfirmedCount": 0,
+        "curedCount": 1930,
+        "deadCount": 0
+    },
+    {
+        "country": "埃及",
+        "confirmedCount": 515645,
+        "currentConfirmedCount": -50,
+        "curedCount": 490920,
+        "deadCount": 24775
+    },
+    {
+        "country": "南非",
+        "confirmedCount": 3717067,
+        "currentConfirmedCount": -32147337,
+        "curedCount": 35764384,
+        "deadCount": 100020
+    }
+]
